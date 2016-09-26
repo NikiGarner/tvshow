@@ -1,6 +1,6 @@
 # tvshow
 ## EPICODUS STUDENT PROJECT
-## Introductions Class
+## Introduction Class
 
 #### 2/17/16
 
